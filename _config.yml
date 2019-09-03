@@ -20,7 +20,7 @@ description:      'A brazen two-column <a href="http://jekyllrb.com" target="_bl
 baseurl:          ""
 
 author:
-  name:           'Jonathan Ari'
+  name:           'Jonathan Ariño'
   url:            https://twitter.com/thanarino
 
 paginate:         5
