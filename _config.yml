@@ -17,7 +17,7 @@ title:            thanarino
 tagline:          'A Jekyll theme'
 description:      'damn son how did u find this'
 # url:              http://hyde.getpoole.com
-baseurl:          "http://thanarino.github.io/thanarino/"
+baseurl:          "https://thanarino.github.io/thanarino/"
 
 author:
   name:           'Jonathan Ariño'
