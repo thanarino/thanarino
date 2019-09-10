@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+url: /thanarino/about/
 ---
 
 <p class="message">
