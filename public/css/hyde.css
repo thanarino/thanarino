@@ -31,17 +31,17 @@
  * Update the foundational and global aspects of the page.
  */
 
-html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+ html {
+  font-family: "Fira Code", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 10px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 12px;
   }
 }
 
@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #1F1F1F;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 20rem;
     text-align: left;
   }
 }
@@ -79,8 +79,10 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-family: "Fira Code", serif;
+  font-weight: 700;
+  font-size: 3rem;
+  letter-spacing: -1.5px;
 }
 
 /* Sidebar nav */
@@ -128,15 +130,15 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
-    margin-left: 20rem;
+    max-width: 60rem;
+    margin-left: 25rem;
     margin-right: 2rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
+    margin-left: 25rem;
     margin-right: 4rem;
   }
 }
