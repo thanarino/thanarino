@@ -17,7 +17,7 @@ title:            thanarino
 tagline:          'A Jekyll theme'
 description:      'damn son how did u find this'
 url:              https://thanarino.github.io
-baseurl:          /thanarino
+baseurl:          /thanarino/
 
 author:
   name:           'Jonathan Ariño'
