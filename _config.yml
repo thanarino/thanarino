@@ -16,12 +16,12 @@ plugins:
 title:            thanarino
 tagline:          'A Jekyll theme'
 description:      'damn son how did u find this'
-url:              'https://thanarino.github.io'
-baseurl:          '/thanarino/'
+url:              https://thanarino.github.io/
+baseurl:          thanarino/
 
 author:
   name:           'Jonathan Ariño'
-  url:            'https://twitter.com/thanarino'
+  url:            https://twitter.com/thanarino
 
 paginate:         5
 paginate_path: "page:num"
