@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About doot doot doot
-url: about/
-permalink: about/
+url: /about/
+permalink: /about/
 ---
 
 <p class="message">
