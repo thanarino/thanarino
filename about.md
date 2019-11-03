@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About doot doot doot
-url: /thanarino/about/
+url: /about/
 permalink: /thanarino/about/
 ---
 
