@@ -16,8 +16,7 @@ plugins:
 title:            thanarino
 tagline:          'A Jekyll theme'
 description:      'damn son how did u find this'
-baseurl:          https://thanarino.github.io/thanarino/
-url:              /
+baseurl:          /
 
 author:
   name:           'Jonathan Ariño'
