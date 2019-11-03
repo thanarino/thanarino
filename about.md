@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About doot doot doot
-url: /about/
 permalink: /about/
 ---
 
