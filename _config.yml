@@ -24,7 +24,7 @@ author:
   url:            https://twitter.com/thanarino
 
 paginate:         5
-paginate_path: "page:num"
+paginate_path:    "page:num"
 
 # Custom vars
 version:          0.1
