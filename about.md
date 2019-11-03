@@ -2,7 +2,7 @@
 layout: page
 title: About doot doot doot
 url: /about/
-permalink: /thanarino/about/
+permalink: /about/
 ---
 
 <p class="message">
