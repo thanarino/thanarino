@@ -14,8 +14,8 @@ plugins:
 
 # Setup
 title:            thanarino
-tagline:          'A Jekyll theme'
-description:      'damn son how did u find this'
+tagline:          'dev boi'
+description:      'i feel kinda free'
 baseurl:          /thanarino/
 
 author:
@@ -29,4 +29,4 @@ paginate_path:    "page:num"
 version:          0.1
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/thanarino/thanarino
