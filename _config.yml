@@ -15,8 +15,7 @@ plugins:
 # Setup
 title:            thanarino
 tagline:          'dev boi'
-description:      'i feel kinda free'
-baseurl:          /thanarino/
+description:      'woop woop'
 
 author:
   name:           'Jonathan Ariño'
