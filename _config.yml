@@ -16,7 +16,7 @@ plugins:
 title:            thanarino
 tagline:          'dev boi'
 description:      'woop woop'
-baseurl:          //
+baseurl:          /thanarino/
 
 author:
   name:           'Jonathan Ariño'
