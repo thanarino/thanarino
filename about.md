@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /thanarino/about/
+permalink: thanarino/about/
 ---
 
 ## Hey there! 🖐

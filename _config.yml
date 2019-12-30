@@ -16,10 +16,11 @@ plugins:
 title:            thanarino
 tagline:          'dev boi'
 description:      'woop woop'
+baseurl:          /
 
 author:
   name:           'Jonathan Ariño'
-  url:            https://twitter.com/thanarino
+  url:            https://twitter.com/thanarino/
 
 paginate:         5
 paginate_path:    "page:num"
