@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Gud Github Links
-permalink: /2019/12/30/good-github-links/
+permalink: /thanarino/2019/12/30/good-github-links/
 ---
 
-These are some nice references, projects, and files (probably illegally shared here) that helped me in development.
+These are some nice references, projects, and files (probably illegally shared here) that helped me in development. This list will be continuously updated. 🐱‍💻
 
 ## Design
 
