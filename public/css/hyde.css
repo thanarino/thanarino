@@ -278,3 +278,6 @@ a.sidebar-nav-item:focus {
 .theme-cyberpunk .pagination .pagination-item {
   border: 0px;
 }
+.theme-cyberpunk hr {
+  border-color: #303030;
+}
