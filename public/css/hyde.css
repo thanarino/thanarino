@@ -250,3 +250,31 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* cyberpunk */
+.theme-cyberpunk .sidebar {
+  background-color: #303030;
+}
+.theme-cyberpunk .related-posts li a:hover {
+  color: #ffffff;
+}
+.theme-cyberpunk, strong, em {
+  color: #dadce0;
+  background-color: #212121;
+}
+.theme-cyberpunk .sidebar h1 a, .theme-cyberpunk h1, .theme-cyberpunk h2, .page-title, .post-title, .post-title a, .theme-cyberpunk .content .post-title a{
+  color: #00cead
+}
+.theme-cyberpunk .sidebar h1,.theme-cyberpunk .sidebar h1 a {
+  padding: 0px;
+  margin: 0px;
+}
+.theme-cyberpunk .content a, .theme-cyberpunk .lead{
+  color: #E250FF;
+}
+.theme-cyberpunk h3, .theme-cyberpunk h4 {
+  color: #dadce0;
+}
+.theme-cyberpunk .pagination .pagination-item {
+  border: 0px;
+}
